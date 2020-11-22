@@ -1,0 +1,13 @@
+All the Information of the Data of covid-19 has been taken from Postman Api...
+This data has been aprooved by WHO.
+Apr 2, 2020 - The API development platform provider has launched an API resource center for
+ tapping COVID-19 data including testing location information ...
+Based on public data provided by Johns Hopkins CSSE. Github Link. 
+Please read the Terms of Use in the Readme file of the repository by above link before using this API.
+Apr 16, 2020 - APIs can't help cure the 
+disease but they can be used by
+ developers to collect data about the outbreak, track its spread, and even produce data ...
+You've visited this page 2 times. Last visit: 24/8/20
+Apr 16, 2020 - APIs can't help cure the disease but they 
+can be used by developers to collect data about the outbreak, track its spread, and even produce data ...
+You've visited this page 2 times. Last visit: 24/8/20
